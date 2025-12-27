@@ -1,0 +1,18 @@
+{
+  "name": "prueba_EMIO_app",
+  "type": "HOST",
+  "platform": "D:\\ProyectosVivado\\02_Prueba_EMIO_workspace\\prueba_EMIO\\export\\prueba_EMIO\\prueba_EMIO.xpfm",
+  "domain": "standalone_ps7_cortexa9_0",
+  "cpuInstance": "ps7_cortexa9_0",
+  "cpuType": "cortex-a9",
+  "os": "standalone",
+  "configuration": {
+    "componentType": "HOST",
+    "hostToolchainConfigurations": []
+  },
+  "domainRealName": "standalone_ps7_cortexa9_0",
+  "applicationFlow": "EMBEDDED",
+  "previousBuildStatusMap": {
+    "hw": "SUCCESS"
+  }
+}
