@@ -1,0 +1,33 @@
+# Directorios de compilación y temporales
+build/
+Debug/
+Release/
+_sds/
+_ide/
+ip_repo/
+.metadata/
+.settings/
+.theia/
+logs/
+
+# Archivos de compilación y ejecutables
+*.o
+*.a
+*.elf
+*.exe
+*.d
+*.bin
+*.lock
+
+# Archivos de Vitis y Eclipse
+.project
+.cproject
+*.log
+
+# Directorios de caché y librerías (si no los necesitas versionar)
+cache/
+library/
+npm-debug.log
+
+# Archivos específicos de plataforma (ajusta según tu proyecto)
+platform/

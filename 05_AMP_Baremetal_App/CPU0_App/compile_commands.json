@@ -1,0 +1,12 @@
+[
+{
+  "directory": "D:/ProyectosVivado/06_AMP_Baremetal_App/CPU0_App/build",
+  "command": "D:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin/arm-none-eabi-gcc.exe  -isystem D:/ProyectosVivado/06_AMP_Baremetal_App/platform/export/platform/sw/standalone_ps7_cortexa9_0/include -isystem D:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/x86_64-oesdk-mingw32/usr/lib/arm-xilinx-eabi/gcc/arm-xilinx-eabi/12.2.0/include -isystem D:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/x86_64-oesdk-mingw32/usr/lib/arm-xilinx-eabi/gcc/arm-xilinx-eabi/12.2.0/include-fixed -isystem D:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/aarch32-xilinx-eabi/usr/include  -O2 -DSDT -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -MMD -MP -specs=D:/ProyectosVivado/06_AMP_Baremetal_App/platform/export/platform/sw/standalone_ps7_cortexa9_0/Xilinx.spec -ID:/ProyectosVivado/06_AMP_Baremetal_App/platform/export/platform/sw/standalone_ps7_cortexa9_0/include -Wall -Wextra      -O0  -g3     -U__clang__ -o CMakeFiles/CPU0_App.elf.dir/helloworld.c.obj -c D:/ProyectosVivado/06_AMP_Baremetal_App/CPU0_App/src/helloworld.c",
+  "file": "D:/ProyectosVivado/06_AMP_Baremetal_App/CPU0_App/src/helloworld.c"
+},
+{
+  "directory": "D:/ProyectosVivado/06_AMP_Baremetal_App/CPU0_App/build",
+  "command": "D:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin/arm-none-eabi-gcc.exe  -isystem D:/ProyectosVivado/06_AMP_Baremetal_App/platform/export/platform/sw/standalone_ps7_cortexa9_0/include -isystem D:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/x86_64-oesdk-mingw32/usr/lib/arm-xilinx-eabi/gcc/arm-xilinx-eabi/12.2.0/include -isystem D:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/x86_64-oesdk-mingw32/usr/lib/arm-xilinx-eabi/gcc/arm-xilinx-eabi/12.2.0/include-fixed -isystem D:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/aarch32-xilinx-eabi/usr/include  -O2 -DSDT -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -MMD -MP -specs=D:/ProyectosVivado/06_AMP_Baremetal_App/platform/export/platform/sw/standalone_ps7_cortexa9_0/Xilinx.spec -ID:/ProyectosVivado/06_AMP_Baremetal_App/platform/export/platform/sw/standalone_ps7_cortexa9_0/include -Wall -Wextra      -O0  -g3     -U__clang__ -o CMakeFiles/CPU0_App.elf.dir/platform.c.obj -c D:/ProyectosVivado/06_AMP_Baremetal_App/CPU0_App/src/platform.c",
+  "file": "D:/ProyectosVivado/06_AMP_Baremetal_App/CPU0_App/src/platform.c"
+}
+]
