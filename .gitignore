@@ -1,2 +1,3 @@
 # Directorios a ignorar en base a la raiz. Hay para cada subdirectorio un propio gitignore
 FPGA/
+PruebaLibmetal_App/
